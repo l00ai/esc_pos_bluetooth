@@ -1,11 +1,11 @@
 import 'dart:io';
 import 'dart:typed_data';
+import 'package:esc_pos_utils_plus/esc_pos_utils_plus.dart';
 import 'package:intl/intl.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/services.dart';
 import 'package:image/image.dart';
-import 'package:esc_pos_utils/esc_pos_utils.dart';
 import 'package:esc_pos_bluetooth/esc_pos_bluetooth.dart';
 import 'package:flutter/material.dart' hide Image;
 import 'package:oktoast/oktoast.dart';

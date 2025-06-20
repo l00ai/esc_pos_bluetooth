@@ -10,10 +10,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.3
   oktoast: ^3.0.0
-  image: ^3.0.2
+  image: ^4.5.4
   esc_pos_bluetooth:
     path: ../../
-  esc_pos_utils: ^1.1.0
+  esc_pos_utils_plus: ^2.0.4
   # esc_pos_utils:
   # path: ../../../esc_pos_utils
   charset_converter: ^2.0.0
