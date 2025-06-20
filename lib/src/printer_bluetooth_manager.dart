@@ -8,8 +8,8 @@
 
 import 'dart:async';
 import 'dart:io';
+import 'package:flutter_bluetooth_basic_updated/flutter_bluetooth_basic.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:flutter_bluetooth_basic/flutter_bluetooth_basic.dart';
 import './enums.dart';
 
 /// Bluetooth printer
